@@ -15,16 +15,28 @@ Cloud Design
 
  - [Microsoft Cloud Design Patterns Infographic](https://azure.microsoft.com/en-us/resources/infographics/cloud-design-patterns/)
 
+Containers
+----------
+ - [Kubernetes - container management and orchestration](https://kubernetes.io/)
 
 TDD, BDD, DDD
 -------------
 
  - [Test-driven Development of Web Apps in Node.js | JS.LA August 2014]( https://www.youtube.com/watch?v=VcKTU2wjP7g)
+ - [Domain Driven Design Reference PDF](http://domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf)
 
 Java Spring Boot
 ----------------
  - [Spring Initializer - bootstrap Spring Boot applications](http://start.spring.io/)
  - [Spring Tool Suite (STS) - Eclipse based Java Spring IDE](https://spring.io/tools)
+
+Node.js
+-------
+ - Ensure you can install all npm packages without sudo. Requires taking ownership of folders. Otherwise, you _will_ run into trouble later.
+ - [Node.js Download](https://nodejs.org/en/)
+ - [Install Node and NPM in 30 seconds shell scripts](https://gist.github.com/isaacs/579814) ([more](https://www.joyent.com/blog/installing-node-and-npm))
+
+
 
 Git
 ---
@@ -43,6 +55,9 @@ Tools
 -----
  - [Visual Studio Code](https://code.visualstudio.com/)
 
+BPM
+---
+ - [Bizagi Modeler](https://www.bizagi.com/en/products/bpm-suite/modeler)
 
 To Explore
 -----------
