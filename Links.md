@@ -7,6 +7,8 @@ Generally Good Links :
  - [Getting Real The smarter, faster, easier way to build a successful web application](http://gettingreal.37signals.com/toc.php)
  - [The Twelve-Factor App](https://12factor.net/)
  - [Minifesto - 10 Principles](http://minifesto.org/)
+ - [Jeff Bezos 2016 Letter to Shareholders](https://www.amazon.com/p/feature/z6o9g6sysxur57t) - remain day 1 company
+   - Customer Obsession; Resist Proxies; Embrace External Trends; High-Velocity Decision Making
 
 Cloud Design
 ------------
