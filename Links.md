@@ -11,63 +11,84 @@ Generally Good Reads :
  - [Jeff Bezos 2016 Letter to Shareholders](https://www.amazon.com/p/feature/z6o9g6sysxur57t) - remain day 1 company
    - Customer Obsession; Resist Proxies; Embrace External Trends; High-Velocity Decision Making
  - [The Web Application Myth](https://medium.com/@codepo8/the-web-application-myth-69c6b1506515)
+ - [Curse of a Mobile Strategy](https://articles.uie.com/curse_of_mobile_strategy/)
+
+Documenting Architecture
+===
+Document your architecture in a clear, crisp, concise, comprehensive way using a layered approach with different levels of views.
+ - [Arc42 - template for architecture communication and documentation](http://arc42.org/overview/)
+ - [The C4 Model - Context, Containers, Components and Classes (or code)](https://c4model.com/)
+- [Structurizr - architecture as code](https://structurizr.com/)
 
 Cloud Design
-------------
+===
 
  - [Microsoft Cloud Design Patterns Infographic](https://azure.microsoft.com/en-us/resources/infographics/cloud-design-patterns/)
+ - [Architecting Microsoft Azure Solutions Cert Prep](https://cloudacademy.com/learning-paths/azure-70-534-certification-exam-prep-arm-26/)
 
 Containers
-----------
+===
  - [Kubernetes - container management and orchestration](https://kubernetes.io/)
 
 TDD, BDD, DDD
--------------
+==
 
  - [Test-driven Development of Web Apps in Node.js | JS.LA August 2014]( https://www.youtube.com/watch?v=VcKTU2wjP7g)
  - [Domain Driven Design Reference PDF](http://domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf)
 
 Java Spring Boot
-----------------
+===
  - [Spring Initializer - bootstrap Spring Boot applications](http://start.spring.io/)
  - [Spring Tool Suite (STS) - Eclipse based Java Spring IDE](https://spring.io/tools)
 
 Node.js
--------
- - Ensure you can install all npm packages without sudo. Requires taking ownership of folders. Otherwise, you _will_ run into trouble later.
+===
+ - Ensure you can install all npm packages __without sudo. Requires taking ownership of folders. Otherwise, you _will_ run into trouble later.
  - [Node.js Download](https://nodejs.org/en/)
  - [Install Node and NPM in 30 seconds shell scripts](https://gist.github.com/isaacs/579814) ([more](https://www.joyent.com/blog/installing-node-and-npm))
 
 
 
 Git
----
+===
  - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 Salesforce
-----------
+===
  - [Salesforce Trailhead - fun way to learn Salesforce](https://trailhead.salesforce.com/en)
  - [Marketing Cloud - Product Demos](https://www.youtube.com/playlist?list=PLnobS_RgN7JZk03xP5wG0gFmCx7Dxj69K)
 
 Microservices
--------------
+===
  - [Microservices Done Right - Microservices Need API Management (Apigee)](https://apigee.com/api-management/#/ebook/698)
+ -  [__Principles of Microservices__](https://www.amazon.ca/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358) __: Small Autonomous Services__
+    - Modeled around Business Concepts
+    - Culture of Automation
+    - High Internal Implementation Details
+    - Decentralize all Things
+    - Deploy Independently
+    - Isolate Failure
+    - Highly Observable
+
 
 Tools
------
+===
+## IDE
  - [Visual Studio Code](https://code.visualstudio.com/)
+ - [IntelliJ](https://www.jetbrains.com/idea/)
+ - [Sublime Text](https://www.sublimetext.com/)
 
 Diagramming - UML, BPM, Sequence, Component, Data Model
----
+===
  - BPMN : [Bizagi Modeler](https://www.bizagi.com/en/products/bpm-suite/modeler)
  - [draw.io](https://www.draw.io/) UML, Flowchart, Software
  - [sequencediagram.org](http://sequencediagram.org/) Neat online sequence diagrams
  - [ERDPlus.com](https://erdplus.com/#/) free online data modeler - ERD, Relational, Star Schema, Export SQL
 
 To Explore
------------
+===
  - [Apache Opehwhisk - A serverless, open source cloud platform that executes functions in response to events at any scale.](http://openwhisk.incubator.apache.org/)
 
 Additional Thoughts
--------------------
+===
 - Instead of mobile-first design, should we be considering omni-channel first design?
