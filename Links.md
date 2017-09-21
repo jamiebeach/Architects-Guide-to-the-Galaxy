@@ -1,14 +1,16 @@
 Links
 =====
 
-Generally Good Links :
+Generally Good Reads :
 ----------------------
 
  - [Getting Real The smarter, faster, easier way to build a successful web application](http://gettingreal.37signals.com/toc.php)
  - [The Twelve-Factor App](https://12factor.net/)
  - [Minifesto - 10 Principles](http://minifesto.org/)
+ - [Epigrams on Programming](http://pu.inf.uni-tuebingen.de/users/klaeren/epigrams.html)
  - [Jeff Bezos 2016 Letter to Shareholders](https://www.amazon.com/p/feature/z6o9g6sysxur57t) - remain day 1 company
    - Customer Obsession; Resist Proxies; Embrace External Trends; High-Velocity Decision Making
+ - [The Web Application Myth](https://medium.com/@codepo8/the-web-application-myth-69c6b1506515)
 
 Cloud Design
 ------------
@@ -55,10 +57,17 @@ Tools
 -----
  - [Visual Studio Code](https://code.visualstudio.com/)
 
-BPM
+Diagramming - UML, BPM, Sequence, Component, Data Model
 ---
- - [Bizagi Modeler](https://www.bizagi.com/en/products/bpm-suite/modeler)
+ - BPMN : [Bizagi Modeler](https://www.bizagi.com/en/products/bpm-suite/modeler)
+ - [draw.io](https://www.draw.io/) UML, Flowchart, Software
+ - [sequencediagram.org](http://sequencediagram.org/) Neat online sequence diagrams
+ - [ERDPlus.com](https://erdplus.com/#/) free online data modeler - ERD, Relational, Star Schema, Export SQL
 
 To Explore
 -----------
  - [Apache Opehwhisk - A serverless, open source cloud platform that executes functions in response to events at any scale.](http://openwhisk.incubator.apache.org/)
+
+Additional Thoughts
+-------------------
+- Instead of mobile-first design, should we be considering omni-channel first design?
