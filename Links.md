@@ -16,15 +16,17 @@ Generally Good Reads :
 Documenting Architecture
 ===
 Document your architecture in a clear, crisp, concise, comprehensive way using a layered approach with different levels of views.
- - [Arc42 - template for architecture communication and documentation](http://arc42.org/overview/)
- - [The C4 Model - Context, Containers, Components and Classes (or code)](https://c4model.com/)
+- [Arc42 - template for architecture communication and documentation](http://arc42.org/overview/)
+- [The C4 Model - Context, Containers, Components and Classes (or code)](https://c4model.com/)
 - [Structurizr - architecture as code](https://structurizr.com/)
+- [Architecture Description Language](https://en.wikipedia.org/wiki/Architecture_description_language)
 
 Cloud Design
 ===
 
  - [Microsoft Cloud Design Patterns Infographic](https://azure.microsoft.com/en-us/resources/infographics/cloud-design-patterns/)
  - [Architecting Microsoft Azure Solutions Cert Prep](https://cloudacademy.com/learning-paths/azure-70-534-certification-exam-prep-arm-26/)
+ - [O'Reilly - Software Architecture Patterns](http://www.oreilly.com/programming/free/files/software-architecture-patterns.pdf)
 
 Containers
 ===
@@ -70,6 +72,10 @@ Microservices
     - Isolate Failure
     - Highly Observable
 
+Data
+===
+## Database Migration and Version Control
+- [Flyway DB](https://flywaydb.org/) - version control for databases
 
 Tools
 ===
@@ -77,6 +83,7 @@ Tools
  - [Visual Studio Code](https://code.visualstudio.com/)
  - [IntelliJ](https://www.jetbrains.com/idea/)
  - [Sublime Text](https://www.sublimetext.com/)
+ - [Eclipse Keyboard Shortcuts](https://www.shortcutfoo.com/app/dojos/eclipse-mac/cheatsheet)
 
 Diagramming - UML, BPM, Sequence, Component, Data Model
 ===
