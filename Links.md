@@ -12,6 +12,7 @@ Generally Good Reads :
    - Customer Obsession; Resist Proxies; Embrace External Trends; High-Velocity Decision Making
  - [The Web Application Myth](https://medium.com/@codepo8/the-web-application-myth-69c6b1506515)
  - [Curse of a Mobile Strategy](https://articles.uie.com/curse_of_mobile_strategy/)
+ - [Methods and Tools Articles about Software Development](http://www.methodsandtools.com/archive/archive.php)
 
 Documenting Architecture
 ===
@@ -24,6 +25,7 @@ Document your architecture in a clear, crisp, concise, comprehensive way using a
 Cloud Design
 ===
 
+ - [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
  - [Microsoft Cloud Design Patterns Infographic](https://azure.microsoft.com/en-us/resources/infographics/cloud-design-patterns/)
  - [Architecting Microsoft Azure Solutions Cert Prep](https://cloudacademy.com/learning-paths/azure-70-534-certification-exam-prep-arm-26/)
  - [O'Reilly - Software Architecture Patterns](http://www.oreilly.com/programming/free/files/software-architecture-patterns.pdf)
@@ -37,6 +39,7 @@ TDD, BDD, DDD
 
  - [Test-driven Development of Web Apps in Node.js | JS.LA August 2014]( https://www.youtube.com/watch?v=VcKTU2wjP7g)
  - [Domain Driven Design Reference PDF](http://domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf)
+ - [An Introduction to Domain Driven Design](http://www.methodsandtools.com/archive/archive.php?id=97)
 
 Java Spring Boot
 ===
