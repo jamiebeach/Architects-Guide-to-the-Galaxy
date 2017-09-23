@@ -88,12 +88,13 @@ Tools
  - [Sublime Text](https://www.sublimetext.com/)
  - [Eclipse Keyboard Shortcuts](https://www.shortcutfoo.com/app/dojos/eclipse-mac/cheatsheet)
 
-Diagramming - UML, BPM, Sequence, Component, Data Model
+Diagramming - UML, BPM, Sequence, Component, Data Model, Mindmaps
 ===
  - BPMN : [Bizagi Modeler](https://www.bizagi.com/en/products/bpm-suite/modeler)
  - [draw.io](https://www.draw.io/) UML, Flowchart, Software
  - [sequencediagram.org](http://sequencediagram.org/) Neat online sequence diagrams
  - [ERDPlus.com](https://erdplus.com/#/) free online data modeler - ERD, Relational, Star Schema, Export SQL
+ - [Coggle.it - Mindmapping](https://coggle.it/) Really great online mindmapping tool
 
 Test Automation
 ===
@@ -103,6 +104,6 @@ To Explore
 ===
  - [Apache Opehwhisk - A serverless, open source cloud platform that executes functions in response to events at any scale.](http://openwhisk.incubator.apache.org/)
 
-Additional Thoughts
+Emerging Technology
 ===
-- Instead of mobile-first design, should we be considering omni-channel first design?
+- [Emerging Technology Mindmap](https://coggle.it/diagram/WVZpygKICwABW3B1/075e421c8200bffd8d4d40fefa2fcdfa6b692264fc6bed1168827c4a7a6cab4c)
