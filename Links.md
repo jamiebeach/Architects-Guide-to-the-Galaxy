@@ -95,6 +95,10 @@ Diagramming - UML, BPM, Sequence, Component, Data Model
  - [sequencediagram.org](http://sequencediagram.org/) Neat online sequence diagrams
  - [ERDPlus.com](https://erdplus.com/#/) free online data modeler - ERD, Relational, Star Schema, Export SQL
 
+Test Automation
+===
+ - [Mockito - Tasty mocking framework](http://site.mockito.org/)
+
 To Explore
 ===
  - [Apache Opehwhisk - A serverless, open source cloud platform that executes functions in response to events at any scale.](http://openwhisk.incubator.apache.org/)
