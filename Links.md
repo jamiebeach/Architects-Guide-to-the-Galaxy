@@ -52,8 +52,6 @@ Node.js
  - [Node.js Download](https://nodejs.org/en/)
  - [Install Node and NPM in 30 seconds shell scripts](https://gist.github.com/isaacs/579814) ([more](https://www.joyent.com/blog/installing-node-and-npm))
 
-
-
 Git
 ===
  - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
@@ -98,7 +96,12 @@ Diagramming - UML, BPM, Sequence, Component, Data Model, Mindmaps
 
 Test Automation
 ===
- - [Mockito - Tasty mocking framework](http://site.mockito.org/)
+ - [Mockito - Tasty mocking framework](http://site.mockito.org/) (Java)
+ - [Hamcrest - Matchers](http://hamcrest.org/JavaHamcrest/) (Java)
+
+Monitoring
+===
+ - [Sumologic Tutorials](https://www.youtube.com/playlist?list=PLuHsjJUxgM1frc39Lnka6d0V5xz57KwGi)
 
 To Explore
 ===
