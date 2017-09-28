@@ -21,6 +21,7 @@ Document your architecture in a clear, crisp, concise, comprehensive way using a
 - [The C4 Model - Context, Containers, Components and Classes (or code)](https://c4model.com/)
 - [Structurizr - architecture as code](https://structurizr.com/)
 - [Architecture Description Language](https://en.wikipedia.org/wiki/Architecture_description_language)
+- [Carbon.now.sh - create nice images of source code](https://carbon.now.sh/)
 
 Cloud Design
 ===
@@ -60,6 +61,10 @@ Salesforce
 ===
  - [Salesforce Trailhead - fun way to learn Salesforce](https://trailhead.salesforce.com/en)
  - [Marketing Cloud - Product Demos](https://www.youtube.com/playlist?list=PLnobS_RgN7JZk03xP5wG0gFmCx7Dxj69K)
+
+Marketing Automation
+===
+ - [Mautic](https://www.mautic.org/tour/)
 
 Microservices
 ===
@@ -110,3 +115,8 @@ To Explore
 Emerging Technology
 ===
 - [Emerging Technology Mindmap](https://coggle.it/diagram/WVZpygKICwABW3B1/075e421c8200bffd8d4d40fefa2fcdfa6b692264fc6bed1168827c4a7a6cab4c)
+
+Other Links
+===
+- [Really cool React demos](https://react.rocks/)
+- [A-Frame WebVR](https://aframe.io/)
