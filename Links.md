@@ -78,6 +78,12 @@ Microservices
     - Isolate Failure
     - Highly Observable
 
+Configuration Server
+===
+ - [Consul - Service Discovery and Configuration Made Easy](https://www.consul.io/)
+ - [Zookeeper - Apache Open-Source Config Server](https://zookeeper.apache.org/)
+ = [Spring Cloud Config - for Java Spring](https://cloud.spring.io/spring-cloud-config/)
+
 Data
 ===
 ## Database Migration and Version Control
