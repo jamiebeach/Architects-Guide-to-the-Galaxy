@@ -114,6 +114,10 @@ Monitoring
 ===
  - [Sumologic Tutorials](https://www.youtube.com/playlist?list=PLuHsjJUxgM1frc39Lnka6d0V5xz57KwGi)
 
+Edge
+===
+- [Fastly - CDN, Streaming, Security, Load Balancing](https://www.fastly.com/)
+
 To Explore
 ===
  - [Apache Opehwhisk - A serverless, open source cloud platform that executes functions in response to events at any scale.](http://openwhisk.incubator.apache.org/)
@@ -126,3 +130,4 @@ Other Links
 ===
 - [Really cool React demos](https://react.rocks/)
 - [A-Frame WebVR](https://aframe.io/)
+- [Choosing Open-Source Licensing](https://choosealicense.com/)
