@@ -55,6 +55,7 @@ Java Spring Boot
 Frontend
 ===
  - [Modern Javascript Explained for Dinosaurs](https://medium.com/@peterxjang/modern-javascript-explained-for-dinosaurs-f695e9747b70)
+ - [Front-end Developer Handbook 2017](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details)
 
 
 Node.js
