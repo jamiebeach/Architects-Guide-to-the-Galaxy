@@ -13,6 +13,9 @@ Generally Good Reads :
  - [The Web Application Myth](https://medium.com/@codepo8/the-web-application-myth-69c6b1506515)
  - [Curse of a Mobile Strategy](https://articles.uie.com/curse_of_mobile_strategy/)
  - [Methods and Tools Articles about Software Development](http://www.methodsandtools.com/archive/archive.php)
+ - [97 Things Every Architect Should Know](https://manohars.files.wordpress.com/2009/11/97-things-every-software-architect-should-know.pdf)
+ - [Design Patterns for Humans!](https://github.com/kamranahmedse/design-patterns-for-humans)
+
 
 Documenting Architecture
 ===
@@ -31,6 +34,7 @@ Cloud Design
  - [Architecting Microsoft Azure Solutions Cert Prep](https://cloudacademy.com/learning-paths/azure-70-534-certification-exam-prep-arm-26/)
  - [O'Reilly - Software Architecture Patterns](http://www.oreilly.com/programming/free/files/software-architecture-patterns.pdf)
 
+
 Containers
 ===
  - [Kubernetes - container management and orchestration](https://kubernetes.io/)
@@ -47,9 +51,15 @@ Java Spring Boot
  - [Spring Initializer - bootstrap Spring Boot applications](http://start.spring.io/)
  - [Spring Tool Suite (STS) - Eclipse based Java Spring IDE](https://spring.io/tools)
 
+
+Frontend
+===
+ - [Modern Javascript Explained for Dinosaurs](https://medium.com/@peterxjang/modern-javascript-explained-for-dinosaurs-f695e9747b70)
+
+
 Node.js
 ===
- - Ensure you can install all npm packages __without sudo. Requires taking ownership of folders. Otherwise, you _will_ run into trouble later.
+ - Ensure you can install all npm packages _without sudo_. Requires taking ownership of folders. Otherwise, you _will_ run into trouble later.
  - [Node.js Download](https://nodejs.org/en/)
  - [Install Node and NPM in 30 seconds shell scripts](https://gist.github.com/isaacs/579814) ([more](https://www.joyent.com/blog/installing-node-and-npm))
 
@@ -110,7 +120,7 @@ Test Automation
  - [Mockito - Tasty mocking framework](http://site.mockito.org/) (Java)
  - [Hamcrest - Matchers](http://hamcrest.org/JavaHamcrest/) (Java)
 
-Monitoring
+Logging and Monitoring
 ===
  - [Sumologic Tutorials](https://www.youtube.com/playlist?list=PLuHsjJUxgM1frc39Lnka6d0V5xz57KwGi)
 
