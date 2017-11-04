@@ -15,6 +15,7 @@ Generally Good Reads :
  - [Methods and Tools Articles about Software Development](http://www.methodsandtools.com/archive/archive.php)
  - [97 Things Every Architect Should Know](https://manohars.files.wordpress.com/2009/11/97-things-every-software-architect-should-know.pdf)
  - [Design Patterns for Humans!](https://github.com/kamranahmedse/design-patterns-for-humans)
+ - [Scalability Rules: 50 Principles for Scaling Web Sites](https://www.slideshare.net/cyrilwang/scalability-rules)
 
 
 Documenting Architecture
