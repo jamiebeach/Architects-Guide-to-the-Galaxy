@@ -16,3 +16,5 @@ The end goal is to ship good, reliable, usable, maintainable software with high 
 Don't think mobile-first. It's not just an app or website you're building. It's services. It's data. And you can't necessarily predict the how people will want to interact with it.
 
 Simplify the design. Then simplify again. And when done with that, simplify the design.
+
+In the end, software architecture is about how we distill experience into wisdom, and disseminate it - [Big Ball of Mud, by Brian Foote and Joseph Yoder](http://www.laputan.org/mud/mud.html)
