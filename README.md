@@ -18,3 +18,5 @@ Don't think mobile-first. It's not just an app or website you're building. It's 
 Simplify the design. Then simplify again. And when done with that, simplify the design.
 
 In the end, software architecture is about how we distill experience into wisdom, and disseminate it - [Big Ball of Mud, by Brian Foote and Joseph Yoder](http://www.laputan.org/mud/mud.html)
+
+All non-trivial abstractions, to some degree, are leaky. ([The Law of Leaky Abstractions - Joel Spolsky](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/))
