@@ -89,6 +89,7 @@ Microservices
     - Deploy Independently
     - Isolate Failure
     - Highly Observable
+ - [Pragmatic Microservices for Organisational Scalability (Video)](https://www.youtube.com/watch?time_continue=2512&v=Skm-vc6gOvs)
 
 Configuration Server
 ===
