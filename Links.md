@@ -122,6 +122,7 @@ Test Automation
 ===
  - [Mockito - Tasty mocking framework](http://site.mockito.org/) (Java)
  - [Hamcrest - Matchers](http://hamcrest.org/JavaHamcrest/) (Java)
+ - [Selenium Browser Automation](http://www.seleniumhq.org/)
 
 Logging and Monitoring
 ===
