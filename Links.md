@@ -136,6 +136,11 @@ Coding
 ===
 - [CodinGame - Gamified Programming Learning](https://www.codingame.com/start)
 
+Leadership
+===
+- [Amazon's Leadership Principles](https://www.amazon.jobs/en/principles)
+- [How to Set Team Technical Direction](http://jlhood.com/how-to-set-team-technical-direction/)
+
 To Explore
 ===
  - [Apache Opehwhisk - A serverless, open source cloud platform that executes functions in response to events at any scale.](http://openwhisk.incubator.apache.org/)
