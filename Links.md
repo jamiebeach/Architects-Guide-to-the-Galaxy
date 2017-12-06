@@ -91,6 +91,10 @@ Microservices
     - Highly Observable
  - [Pragmatic Microservices for Organisational Scalability (Video)](https://www.youtube.com/watch?time_continue=2512&v=Skm-vc6gOvs)
 
+Serverless
+===
+ - [Serverless.com](https://serverless.com/)
+
 Configuration Server
 ===
  - [Consul - Service Discovery and Configuration Made Easy](https://www.consul.io/)
