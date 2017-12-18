@@ -144,6 +144,7 @@ Coding
 Learning
 ===
 - [CleanCoders](https://cleancoders.com/)
+- [tech.io](https://tech.io/)
 
 Leadership
 ===
