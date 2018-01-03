@@ -16,6 +16,7 @@ Generally Good Reads :
  - [97 Things Every Architect Should Know](https://manohars.files.wordpress.com/2009/11/97-things-every-software-architect-should-know.pdf)
  - [Design Patterns for Humans!](https://github.com/kamranahmedse/design-patterns-for-humans)
  - [Scalability Rules: 50 Principles for Scaling Web Sites](https://www.slideshare.net/cyrilwang/scalability-rules)
+ - [The Software Architecture Chronicles](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/)
 
 
 Documenting Architecture
@@ -140,6 +141,11 @@ Coding
 ===
 - [CodinGame - Gamified Programming Learning](https://www.codingame.com/start)
 
+Learning
+===
+- [CleanCoders](https://cleancoders.com/)
+- [tech.io](https://tech.io/)
+
 Leadership
 ===
 - [Amazon's Leadership Principles](https://www.amazon.jobs/en/principles)
@@ -158,3 +164,5 @@ Other Links
 - [Really cool React demos](https://react.rocks/)
 - [A-Frame WebVR](https://aframe.io/)
 - [Choosing Open-Source Licensing](https://choosealicense.com/)
+- [8thLight](https://8thlight.com/blog/)
+- [Clarified CQRS](http://udidahan.com/2009/12/09/clarified-cqrs/)
