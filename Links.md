@@ -159,6 +159,11 @@ Emerging Technology
 ===
 - [Emerging Technology Mindmap](https://coggle.it/diagram/WVZpygKICwABW3B1/075e421c8200bffd8d4d40fefa2fcdfa6b692264fc6bed1168827c4a7a6cab4c)
 
+Engineering Culture
+===
+I've added this section because as an Architect we often find ourselves involved in situations where we are being looked to for organizational and operational guidance. Helping to ensure a great engineering culture is, at some level, an important aspect of our role. 
+- [Valve's Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
+
 Other Links
 ===
 - [Really cool React demos](https://react.rocks/)
