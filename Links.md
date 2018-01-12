@@ -140,6 +140,7 @@ Edge
 Coding
 ===
 - [CodinGame - Gamified Programming Learning](https://www.codingame.com/start)
+- [Things Every Programmer Should Know](https://github.com/jasondown/every-programmer-should-know)
 
 Learning
 ===
@@ -163,6 +164,7 @@ Engineering Culture
 ===
 I've added this section because as an Architect we often find ourselves involved in situations where we are being looked to for organizational and operational guidance. Helping to ensure a great engineering culture is, at some level, an important aspect of our role. 
 - [Valve's Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
+- [Netflix Culture Deck](https://www.slideshare.net/reed2001/culture-1798664/40-The_Rare_Responsible_Person_Self)
 
 Other Links
 ===
