@@ -32,6 +32,7 @@ Cloud Design
 ===
 
  - [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
+ - [Azure Developer Guide ebook](https://azure.microsoft.com/en-us/campaigns/developer-guide/)
  - [Microsoft Cloud Design Patterns Infographic](https://azure.microsoft.com/en-us/resources/infographics/cloud-design-patterns/)
  - [Architecting Microsoft Azure Solutions Cert Prep](https://cloudacademy.com/learning-paths/azure-70-534-certification-exam-prep-arm-26/)
  - [O'Reilly - Software Architecture Patterns](http://www.oreilly.com/programming/free/files/software-architecture-patterns.pdf)
@@ -39,6 +40,7 @@ Cloud Design
 
 Containers
 ===
+ - [Docker Tutorials and Labs](https://github.com/docker/labs)
  - [Kubernetes - container management and orchestration](https://kubernetes.io/)
 
 TDD, BDD, DDD
