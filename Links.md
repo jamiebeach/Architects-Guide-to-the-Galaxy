@@ -137,6 +137,10 @@ Edge
 ===
 - [Fastly - CDN, Streaming, Security, Load Balancing](https://www.fastly.com/)
 
+Artificial Intelligence
+===
+- [Kaggle.com - Kaggle helps you learn, work, and play with Data Science and ML](https://www.kaggle.com/)
+
 Coding
 ===
 - [CodinGame - Gamified Programming Learning](https://www.codingame.com/start)
