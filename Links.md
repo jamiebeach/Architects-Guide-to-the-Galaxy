@@ -183,6 +183,5 @@ Other Links
 - [A-Frame WebVR](https://aframe.io/)
 - [Choosing Open-Source Licensing](https://choosealicense.com/)
 - [Tech Debt Taxonomy](https://engineering.riotgames.com/news/taxonomy-tech-debt)
-=======
 - [8thLight](https://8thlight.com/blog/)
 - [Clarified CQRS](http://udidahan.com/2009/12/09/clarified-cqrs/)
