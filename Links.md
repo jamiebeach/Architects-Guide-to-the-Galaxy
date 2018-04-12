@@ -13,6 +13,11 @@ Generally Good Reads :
  - [The Web Application Myth](https://medium.com/@codepo8/the-web-application-myth-69c6b1506515)
  - [Curse of a Mobile Strategy](https://articles.uie.com/curse_of_mobile_strategy/)
  - [Methods and Tools Articles about Software Development](http://www.methodsandtools.com/archive/archive.php)
+ - [97 Things Every Architect Should Know](https://manohars.files.wordpress.com/2009/11/97-things-every-software-architect-should-know.pdf)
+ - [Design Patterns for Humans!](https://github.com/kamranahmedse/design-patterns-for-humans)
+ - [Scalability Rules: 50 Principles for Scaling Web Sites](https://www.slideshare.net/cyrilwang/scalability-rules)
+ - [The Software Architecture Chronicles](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/)
+
 
 Documenting Architecture
 ===
@@ -27,12 +32,15 @@ Cloud Design
 ===
 
  - [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
+ - [Azure Developer Guide ebook](https://azure.microsoft.com/en-us/campaigns/developer-guide/)
  - [Microsoft Cloud Design Patterns Infographic](https://azure.microsoft.com/en-us/resources/infographics/cloud-design-patterns/)
  - [Architecting Microsoft Azure Solutions Cert Prep](https://cloudacademy.com/learning-paths/azure-70-534-certification-exam-prep-arm-26/)
  - [O'Reilly - Software Architecture Patterns](http://www.oreilly.com/programming/free/files/software-architecture-patterns.pdf)
 
+
 Containers
 ===
+ - [Docker Tutorials and Labs](https://github.com/docker/labs)
  - [Kubernetes - container management and orchestration](https://kubernetes.io/)
 
 TDD, BDD, DDD
@@ -47,9 +55,16 @@ Java Spring Boot
  - [Spring Initializer - bootstrap Spring Boot applications](http://start.spring.io/)
  - [Spring Tool Suite (STS) - Eclipse based Java Spring IDE](https://spring.io/tools)
 
+
+Frontend
+===
+ - [Modern Javascript Explained for Dinosaurs](https://medium.com/@peterxjang/modern-javascript-explained-for-dinosaurs-f695e9747b70)
+ - [Front-end Developer Handbook 2017](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details)
+
+
 Node.js
 ===
- - Ensure you can install all npm packages __without sudo. Requires taking ownership of folders. Otherwise, you _will_ run into trouble later.
+ - Ensure you can install all npm packages _without sudo_. Requires taking ownership of folders. Otherwise, you _will_ run into trouble later.
  - [Node.js Download](https://nodejs.org/en/)
  - [Install Node and NPM in 30 seconds shell scripts](https://gist.github.com/isaacs/579814) ([more](https://www.joyent.com/blog/installing-node-and-npm))
 
@@ -77,6 +92,11 @@ Microservices
     - Deploy Independently
     - Isolate Failure
     - Highly Observable
+ - [Pragmatic Microservices for Organisational Scalability (Video)](https://www.youtube.com/watch?time_continue=2512&v=Skm-vc6gOvs)
+
+Serverless
+===
+ - [Serverless.com](https://serverless.com/)
 
 Configuration Server
 ===
@@ -104,19 +124,44 @@ Diagramming - UML, BPM, Sequence, Component, Data Model, Mindmaps
  - [sequencediagram.org](http://sequencediagram.org/) Neat online sequence diagrams
  - [ERDPlus.com](https://erdplus.com/#/) free online data modeler - ERD, Relational, Star Schema, Export SQL
  - [Coggle.it - Mindmapping](https://coggle.it/) Really great online mindmapping tool
+ - [Aww App](https://awwapp.com/) Online collaborative drawing w infinite canvas
 
 Test Automation
 ===
  - [Mockito - Tasty mocking framework](http://site.mockito.org/) (Java)
  - [Hamcrest - Matchers](http://hamcrest.org/JavaHamcrest/) (Java)
+ - [Selenium Browser Automation](http://www.seleniumhq.org/)
 
-Monitoring
+Logging and Monitoring
 ===
  - [Sumologic Tutorials](https://www.youtube.com/playlist?list=PLuHsjJUxgM1frc39Lnka6d0V5xz57KwGi)
 
 Edge
 ===
 - [Fastly - CDN, Streaming, Security, Load Balancing](https://www.fastly.com/)
+
+Artificial Intelligence
+===
+- [Kaggle.com - Kaggle helps you learn, work, and play with Data Science and ML](https://www.kaggle.com/)
+
+Coding
+===
+- [CodinGame - Gamified Programming Learning](https://www.codingame.com/start)
+- [Things Every Programmer Should Know](https://github.com/jasondown/every-programmer-should-know)
+
+Learning
+===
+- [CleanCoders](https://cleancoders.com/)
+- [tech.io](https://tech.io/)
+
+Leadership
+===
+- [Amazon's Leadership Principles](https://www.amazon.jobs/en/principles)
+- [How to Set Team Technical Direction](http://jlhood.com/how-to-set-team-technical-direction/)
+
+ChatOps
+===
+- [Detailed info about ChatOps](https://github.com/exAspArk/awesome-chatops)
 
 To Explore
 ===
@@ -126,9 +171,18 @@ Emerging Technology
 ===
 - [Emerging Technology Mindmap](https://coggle.it/diagram/WVZpygKICwABW3B1/075e421c8200bffd8d4d40fefa2fcdfa6b692264fc6bed1168827c4a7a6cab4c)
 
+Engineering Culture
+===
+I've added this section because as an Architect we often find ourselves involved in situations where we are being looked to for organizational and operational guidance. Helping to ensure a great engineering culture is, at some level, an important aspect of our role. 
+- [Valve's Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
+- [Netflix Culture Deck](https://www.slideshare.net/reed2001/culture-1798664/40-The_Rare_Responsible_Person_Self)
+
 Other Links
 ===
 - [Really cool React demos](https://react.rocks/)
 - [A-Frame WebVR](https://aframe.io/)
 - [Choosing Open-Source Licensing](https://choosealicense.com/)
 - [Tech Debt Taxonomy](https://engineering.riotgames.com/news/taxonomy-tech-debt)
+=======
+- [8thLight](https://8thlight.com/blog/)
+- [Clarified CQRS](http://udidahan.com/2009/12/09/clarified-cqrs/)
