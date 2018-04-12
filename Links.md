@@ -131,3 +131,4 @@ Other Links
 - [Really cool React demos](https://react.rocks/)
 - [A-Frame WebVR](https://aframe.io/)
 - [Choosing Open-Source Licensing](https://choosealicense.com/)
+- [Tech Debt Taxonomy](https://engineering.riotgames.com/news/taxonomy-tech-debt)
