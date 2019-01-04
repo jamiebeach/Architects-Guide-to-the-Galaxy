@@ -93,6 +93,7 @@ Microservices
     - Isolate Failure
     - Highly Observable
  - [Pragmatic Microservices for Organisational Scalability (Video)](https://www.youtube.com/watch?time_continue=2512&v=Skm-vc6gOvs)
+ - [Microservices Architecture at Medium](https://medium.engineering/microservice-architecture-at-medium-9c33805eb74f)
 
 Serverless
 ===
