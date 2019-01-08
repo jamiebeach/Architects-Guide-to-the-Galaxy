@@ -145,6 +145,7 @@ Artificial Intelligence
 ===
 - [Kaggle.com - Kaggle helps you learn, work, and play with Data Science and ML](https://www.kaggle.com/)
 - [fast.ai - Deep Learning AI courses - free](https://www.fast.ai/)
+- [Paperspace - cloud based GPU for ML/AI pipelines](https://www.paperspace.com/)
 
 Coding
 ===
