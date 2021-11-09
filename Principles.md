@@ -3,18 +3,20 @@
 Principles of Software Architecture
 ===
 
-1. *Simplicity Rocks*
+1. *Keep it simplie. Reduce complexity.*
 
 2. *Performance is Paramount*
 
-3. *Loose Coupling FTW*
+3. *Reduce data sprawl*
 
-4. *Write Down All the Things*
+4. *Document the non-functional requirements*
 
 5. *Collaborate*
 
-6. *Pictures Worth 1000 Words*
+6. *Zero trust*
 
-7. *Omni-Channel First*
+7. *API First*
 
-8. *Log and Measure and Log*
+8. *Log centralized*
+
+9. *One kind of architecture does not fit all problems*
